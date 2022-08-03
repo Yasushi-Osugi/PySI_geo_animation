@@ -1,0 +1,45 @@
+node_name,capital_en,name_ens,capital_jp,iscapital,lat,lon
+root,Saitama City,Japan,さいたま,0,35.861665,139.6454616
+JPN,Sapporo,Japan,札幌,0,43.0620803,141.3543614
+YTO,Toronto,Canada,トロント,0,43.6534399,-79.3840901
+NYC,New York City,United States,ニューヨーク,0,40.7127744,-74.006059
+LAX,Los Angeles,United States,ロサンゼルス,0,34.0537136,-118.2426533
+MEX,Mexico City,Mexico,メキシコシティ,1,19.431793,-99.1339996
+SAO,Sao Paulo,Brazil,サンパウロ,0,-23.5474385,-46.637397
+BUE,Buenos Aires,Argentina,ブエノスアイレス,1,-34.6081414,-58.3737025
+KUL,Kuala Lumpur,Malaysia,クアラルンプール,1,3.152362,101.6940229
+BKK,Bangkok,Thailand,バンコク,1,13.7538189,100.5018236
+SIN,Singapore,Singapore,シンガポール,1,1.3067039,103.8431002
+SGN,Ho Chi Minh City,Viet Nam,ホーチミン,0,10.776561,106.700972
+IST,Istanbul,Turkey,イスタンブール,0,41.0134947,28.9552083
+JKT,Jakarta,Indonesia,ジャカルタ,1,-6.1815787,106.8283893
+SEL,Seoul,South Korea,ソウル,1,37.5662952,126.9779451
+SYD,Sydney,Australia,シドニー,0,-33.8731575,151.2061157
+DEL,Delhi,India,デリー,1,28.6720669,77.2207318
+RUH,Riyadh,Saudi Arabia,リヤド,1,24.6725488,46.7372325
+GOT,Gothenburg,Swedn,ヨーテボリ,0,57.70716,11.96679
+LON,London,United Kingdom,ロンドン,1,51.504827,-0.0786264
+PAR,Paris,France,パリ,1,48.8564826,2.3524135
+HAM,Hamburg,Germany,ハンブルク,0,53.5504312,9.9923335
+MXP,Milano,Italy,ミラノ,0,45.4666994,9.1903207
+JNB,Johannesburg,South Africa,ヨハネスブルグ,0,-26.2044,28.0416
+BJS,Beijing,China,北京（ペキン）,1,39.9046496,116.7184868
+SHA,Shanghai,China,上海（シャンハイ）,0,31.2321437,121.4692687
+CAN,Guangzhou,China,広州（グアンヂョウ）,0,23.1321116,113.2589791
+LED,Saint Petersburg,Russia,サンクトペテルブルク,0,59.946279,30.396428
+BRU,Brussels,Belgium,ブリュセル,1,50.8503,4.3517
+TYO,Tokyo,Japan,東京,1,35.6896342,139.6921007
+OSA,Osaka City,Japan,大阪,0,34.6937366,135.5021669
+AMS,Amsterdam,Netherlands,アムステルダム,1,52.3915,4.9035
+AKL,Auckland,New Zealand,オークランド,0,-36.850937,174.7633152
+WAW,Warsaw,Poland,ワルシャワ,1,52.2317616,21.0061014
+LIS,Lisbon,Portugal,リスボン,1,38.7222,-9.1393
+MAD,Madrid,Spain,マドリード,1,40.4183806,-3.6918174
+ZRH,Zurich,Switzerland,チューリッヒ,0,47.3842,8.53185
+MUC,Munich,Germany,ミュンヘン,0,48.1375798,11.5758153
+FRA,Frankfurt,Germany,フランクフルト,0,50.1109,8.6821
+SFO,San Francisco,United States,サンフランシスコ,0,37.77493,-122.419416
+SWE,Stockholm,Swedn,ストックホルム,1,59.3293,18.0685
+NOR,Oslo,Norway,オスロ,1,59.9138,10.7522
+DEN,Kopenhagen,Denmark,コペンハーゲン,1,55.676,12.5683
+HEL,Helsinki,Finland,ヘルシンキ,1,60.1698,24.9383
