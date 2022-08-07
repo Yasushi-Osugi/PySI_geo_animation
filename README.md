@@ -6,6 +6,9 @@ Python plotly demo that is visualization for Global Supply Chain. global PSI. sh
 世界地図の上にあるグローバル供給拠点・マザープラント(JPN)から需要地(欧州、米州など)に向かって購入オーダーPOが移動する様子をアニメーションで表示します。
 アニメーションのtime stepはWeeklyの中を実働5日とみなして、1/5 = 0.2 week間隔としています。 
 
+可視化のための入力データ生成方法については、下記のpdfファイル「可視化データ生成手順」を参照ください。
+animation_data_generation_GUIDE.pdf
+
 本内容に関連する情報は、下記のnoteのURL記事および関連する過去記事を参照ください。
 https://note.com/osuosu1123/n/ndaacd017d283
 
